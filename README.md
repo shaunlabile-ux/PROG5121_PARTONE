@@ -2,8 +2,8 @@
 ## Registration and Login System
 
 ###  Student Details
-- Name: [Your Name]
-- Student Number: [Your Student Number]
+- Name: Shaun Rikhotso
+- Student Number: ST10520428
 
 ---
 
